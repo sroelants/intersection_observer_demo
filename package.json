@@ -1,5 +1,6 @@
 {
   "name": "intersection_observer_demo",
+  "homepage": "https://sroelants.github.io/intersection_observer_demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
