@@ -5,7 +5,8 @@
 
 A quick demonstration of how to do make an infinitely scrolling page using the
 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-and React hooks. Play around with it 
+and [React hooks](https://reactjs.org/docs/hooks-intro.html).
+Play around with it 
 [here](https://sroelants.github.io/intersection_observer_demo).
 Read the accompanying blog post [here]().
 
