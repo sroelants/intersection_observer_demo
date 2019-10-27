@@ -1,0 +1,30 @@
+:root {
+  --color-white: #fafafa;
+  --color-grey: #ddd;
+  --color-light-grey: #eee;
+  --color-black: #444;
+  --color-red: #eb3b31;
+  --color-light-red: #f0635b;
+  --color-dark-red: #b8271f;
+  --font-serif: "Merriweather", serif;
+  --font-sans: "Roboto", sans-serif;
+  --font-display: "Abril Fatface", cursive;
+  // --font-display: "Staatliches", cursive;
+  // --font-display: "Alfa Slab One", cursive;
+}
+
+body {
+  background-color: var(--color-white);
+  color: var(--color-black);
+  width: 600px;
+  margin: auto;
+  overflow-y: scroll;
+}
+
+.header {
+  font-family: var(--font-display);
+  font-size: 4rem;
+  padding: 40px;
+  text-align: center;
+}
+

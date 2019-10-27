@@ -1,0 +1,30 @@
+.card {
+  box-sizing: border-box;
+  padding: 30px;
+  background-color: var(--color-grey);
+  margin: 30px;
+  border-radius: 4px;
+  box-shadow: 10px 10px 46px -15px rgba(0, 0, 0, 0.14);
+  &:hover {
+    background-color: var(--color-light-grey);
+    transition: background 0.2s ease-in-out;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+    &:hover {
+      color: var(--color-red);
+    }
+  }
+}
+
+.card__title {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  margin: 10px;
+}
+
+.card__snippet {
+  font-family: var(--font-sans);
+  padding: 20px;
+}
