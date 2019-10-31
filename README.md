@@ -4,7 +4,7 @@ A quick demonstration of how to do make an infinitely scrolling page using the
 and [React hooks](https://reactjs.org/docs/hooks-intro.html).
 Play around with it 
 [here](https://sroelants.github.io/intersection_observer_demo).
-Read the accompanying blog post [here]().
+Read the accompanying blog post [here](https://www.samroelants.com/blog/using-the-intersectionobserver-api-with-react-hooks/).
 
 
 <p align="center">
